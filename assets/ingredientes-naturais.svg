@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="t d">
+<title id="t">Frutas, folhas e suco natural</title><desc id="d">Ilustração decorativa de um copo de suco verde, laranja, maçã, laranja cortada e folhas.</desc>
+<defs>
+ <linearGradient id="bg" x2="0" y2="1"><stop stop-color="#315d3e"/><stop offset="1" stop-color="#102b1d"/></linearGradient>
+ <linearGradient id="glass" x2="1" y2="1"><stop stop-color="#ffffff" stop-opacity=".8"/><stop offset=".45" stop-color="#d7f0df" stop-opacity=".25"/><stop offset="1" stop-color="#ffffff" stop-opacity=".55"/></linearGradient>
+ <linearGradient id="juice" x2="0" y2="1"><stop stop-color="#b6d96b"/><stop offset="1" stop-color="#4e8a32"/></linearGradient>
+ <radialGradient id="apple"><stop stop-color="#ffb05c"/><stop offset="1" stop-color="#d94b25"/></radialGradient>
+ <radialGradient id="orange"><stop stop-color="#ffd56b"/><stop offset="1" stop-color="#ee8b1b"/></radialGradient>
+ <filter id="shadow"><feGaussianBlur stdDeviation="12"/></filter>
+</defs>
+<rect width="900" height="520" rx="34" fill="url(#bg)"/>
+<ellipse cx="460" cy="444" rx="300" ry="28" fill="#000" opacity=".3" filter="url(#shadow)"/>
+<g fill="#5f9a49" stroke="#9fca75" stroke-width="4"><path d="M110 350Q55 210 170 145Q220 265 110 350Z"/><path d="M145 380Q155 235 285 220Q270 335 145 380Z"/><path d="M650 360Q640 205 770 165Q790 300 650 360Z"/><path d="M680 390Q735 270 850 290Q805 390 680 390Z"/></g>
+<g transform="translate(360 90)"><path d="M30 20H220L198 340Q194 375 160 375H90Q56 375 52 340Z" fill="url(#glass)" stroke="#e9f4eb" stroke-width="8"/><path d="M48 120H204L190 332Q188 352 160 352H92Q66 352 64 332Z" fill="url(#juice)"/><path d="M45 120Q125 98 207 120" fill="none" stroke="#d5ef9d" stroke-width="9"/><path d="M130 20L146 -40" stroke="#d7e8d7" stroke-width="8" stroke-linecap="round"/><path d="M145 -42Q205 -80 225 -38Q185 -3 145 -42Z" fill="#7ebc4c"/></g>
+<g transform="translate(170 305)"><circle r="90" fill="url(#orange)" stroke="#f8bd53" stroke-width="8"/><circle r="67" fill="#ffe6a1"/><g stroke="#efa33d" stroke-width="5"><path d="M0 -62V62M-62 0H62M-44 -44L44 44M44 -44L-44 44"/></g><circle r="13" fill="#fff0c2"/></g>
+<g transform="translate(700 350)"><circle r="88" fill="url(#apple)"/><path d="M-8 -80Q-20 -115 8 -128Q30 -100 12 -78Z" fill="#6d9d3e"/><path d="M4 -79Q50 -120 75 -88Q46 -57 4 -79Z" fill="#86b84d"/><path d="M-35 -40Q-5 -55 10 -20" fill="none" stroke="#ffd18a" stroke-width="8" opacity=".45"/></g>
+<g transform="translate(300 430)" fill="#d94e39"><circle r="23"/><circle cx="35" cy="-10" r="19"/><path d="M-4 -22Q-18 -52 5 -60Q20 -38 -4 -22Z" fill="#75a949"/></g>
+<g transform="translate(570 435)" fill="#8ebd55"><path d="M0 0Q-55 -70 -100 -25Q-60 35 0 0Z"/><path d="M0 0Q55 -75 100 -25Q60 35 0 0Z"/><path d="M0 0V-70" stroke="#d0e7a0" stroke-width="5" fill="none"/></g>
+</svg>
